@@ -6,7 +6,7 @@ function Keypad() {
     
     return ( 
 
-    <Container>
+    <Container className="bg-black">
     <Row>
         <Col xs="8"></Col>
         <Col></Col>
