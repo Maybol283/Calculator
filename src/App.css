@@ -1,5 +1,5 @@
 #root {
-  font-family: digital;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   display: flex;
   justify-content: center; /* Horizontally centers content */
   align-items: center;     /* Vertically centers content */
