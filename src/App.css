@@ -1,9 +1,10 @@
 #root {
+  font-family: digital;
   display: flex;
   justify-content: center; /* Horizontally centers content */
   align-items: center;     /* Vertically centers content */
   height: 100vh;           /* Use the full viewport height */
   margin: 0;               /* Remove any default margins */
   padding: 2rem;
-  text-align: center;
+  text-align: end;
 }

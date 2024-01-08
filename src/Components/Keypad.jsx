@@ -45,12 +45,12 @@ function Keypad() {
   ];
 
   return (
-    <Container fluid className="bg-subtle container1">
+    <Container fluid className="container1 rounded-1">
       <Row>
-        <Col className="bg-black text-warning p-0 m-0">{PreCal}</Col>
+        <Col className="bg-black text-warning text-small m-0">{PreCal}</Col>
       </Row>
       <Row>
-        <Col className="bg-black text-white p-0 m-0">{Calc}</Col>
+        <Col className="bg-black text-white fs-5 m-0">{Calc}</Col>
       </Row>
 
       {rows.map((row, rowIndex) => (
